@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "ETEISESSÄ NUKUTAAN",          // 5
         "VESSASSA KÄYDÄÄN PISSALLA",   // 6
         "VESSASSA KOKATAAN",           // 7
-        "OLOHUONEESSA ISTUTAAN",       // 8
+        "OLOHUONEESSA ISTUTAAN SOHVALLA", // 8
         "OLOHUONEESSA KÄYDÄÄN PISSALLA" // 9
     ];
 
